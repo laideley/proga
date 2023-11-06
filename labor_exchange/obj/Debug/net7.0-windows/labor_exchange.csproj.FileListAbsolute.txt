@@ -1,0 +1,82 @@
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Home_form.resources
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Log_form.resources
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Reg_form.resources
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.GenerateResource.cache
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfoInputs.cache
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfo.cs
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.CoreCompileInputs.cache
+C:\workspace\Studies\3 Курс\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.exe
+C:\workspace\Studies\3 Курс\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.deps.json
+C:\workspace\Studies\3 Курс\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.runtimeconfig.json
+C:\workspace\Studies\3 Курс\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.dll
+C:\workspace\Studies\3 Курс\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.pdb
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.dll
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\refint\labor_exchange.dll
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.pdb
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.genruntimeconfig.cache
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\ref\labor_exchange.dll
+C:\workspace\Studies\3 Курс\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.add_vacancy.resources
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.exe
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.deps.json
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.runtimeconfig.json
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.dll
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.pdb
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.add_vacancy.resources
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Home_form.resources
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Reg_form.resources
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.GenerateResource.cache
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfoInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfo.cs
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.dll
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\refint\labor_exchange.dll
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.pdb
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.genruntimeconfig.cache
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\ref\labor_exchange.dll
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Login.resources
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Welcome.resources
+C:\Users\krist\OneDrive\Рабочий стол\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.filtr.resources
+C:\ККК\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.exe
+C:\ККК\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.deps.json
+C:\ККК\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.runtimeconfig.json
+C:\ККК\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.dll
+C:\ККК\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.pdb
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.add_vacancy.resources
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.filtr.resources
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Home_form.resources
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Login.resources
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Reg_form.resources
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Welcome.resources
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.GenerateResource.cache
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfoInputs.cache
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfo.cs
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.CoreCompileInputs.cache
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.dll
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\refint\labor_exchange.dll
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.pdb
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.genruntimeconfig.cache
+C:\ККК\labor_exchange\obj\Debug\net7.0-windows\ref\labor_exchange.dll
+C:\Курсач точный\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.exe
+C:\Курсач точный\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.deps.json
+C:\Курсач точный\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.runtimeconfig.json
+C:\Курсач точный\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.dll
+C:\Курсач точный\labor_exchange\bin\Debug\net7.0-windows\labor_exchange.pdb
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.add_vacancy.resources
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.filtr.resources
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Home_form.resources
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Login.resources
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Reg_form.resources
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.Welcome.resources
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.GenerateResource.cache
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfoInputs.cache
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.AssemblyInfo.cs
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.csproj.CoreCompileInputs.cache
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.dll
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\refint\labor_exchange.dll
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.pdb
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\labor_exchange.genruntimeconfig.cache
+C:\Курсач точный\labor_exchange\obj\Debug\net7.0-windows\ref\labor_exchange.dll
